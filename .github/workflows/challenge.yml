@@ -1,6 +1,8 @@
-name : linkedIn-challenge
+name : LinkedIn
 
 on:push
+
+jobs:
 
       job1:
         name: first job
